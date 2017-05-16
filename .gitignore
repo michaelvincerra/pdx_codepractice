@@ -1,0 +1,8 @@
+*intro_ds
+*lpthw
+*pyc
+*.pyc
+_pycache_
+.DS_Store
+.idea
+.ipynb_checkpoints
